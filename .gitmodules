@@ -1,0 +1,6 @@
+[submodule "npm-template"]
+	path = npm-template
+	url = https://github.com/hezhangjian/npm-template.git
+[submodule "base-template"]
+	path = base-template
+	url = https://github.com/hezhangjian/base-template.git
