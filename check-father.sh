@@ -27,3 +27,5 @@ echo "📋 Checking template inheritance relationships"
 echo "============================================="
 
 check_father base-template npm-template
+
+check_father npm-template angular-template
