@@ -7,3 +7,12 @@
 [submodule "angular-template"]
 	path = angular-template
 	url = https://github.com/hezhangjian/angular-template.git
+[submodule "node-fastify-template"]
+	path = node-fastify-template
+	url = https://github.com/hezhangjian/node-fastify-template.git
+[submodule "python-template"]
+	path = python-template
+	url = https://github.com/hezhangjian/python-template.git
+[submodule "python-fastapi-template"]
+	path = python-fastapi-template
+	url = https://github.com/hezhangjian/python-fastapi-template.git

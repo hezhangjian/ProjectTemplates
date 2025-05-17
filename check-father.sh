@@ -27,5 +27,9 @@ echo "📋 Checking template inheritance relationships"
 echo "============================================="
 
 check_father base-template npm-template
+check_father base-template python-template
 
 check_father npm-template angular-template
+check_father npm-template node-fastify-template
+
+check_father python-template python-fastapi-template
