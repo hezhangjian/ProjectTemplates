@@ -16,3 +16,6 @@
 [submodule "python-fastapi-template"]
 	path = python-fastapi-template
 	url = https://github.com/hezhangjian/python-fastapi-template.git
+[submodule "java-maven-template"]
+	path = java-maven-template
+	url = https://github.com/hezhangjian/java-maven-template.git

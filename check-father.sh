@@ -26,6 +26,7 @@ check_father() {
 echo "📋 Checking template inheritance relationships"
 echo "============================================="
 
+check_father base-template java-maven-template
 check_father base-template npm-template
 check_father base-template python-template
 
