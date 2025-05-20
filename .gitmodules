@@ -19,3 +19,6 @@
 [submodule "java-maven-template"]
 	path = java-maven-template
 	url = https://github.com/hezhangjian/java-maven-template.git
+[submodule "springboot-webflux-template"]
+	path = springboot-webflux-template
+	url = https://github.com/hezhangjian/springboot-webflux-template.git
