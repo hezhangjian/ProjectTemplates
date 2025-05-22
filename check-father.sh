@@ -26,9 +26,15 @@ check_father() {
 echo "📋 Checking template inheritance relationships"
 echo "============================================="
 
+check_father base-template c-template
+check_father base-template csharp-template
+check_father base-template go-template
 check_father base-template java-maven-template
 check_father base-template npm-template
 check_father base-template python-template
+check_father base-template rust-template
+
+check_father java-maven-template springboot-webflux-template
 
 check_father npm-template angular-template
 check_father npm-template node-fastify-template

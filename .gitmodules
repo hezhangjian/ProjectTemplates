@@ -22,3 +22,15 @@
 [submodule "springboot-webflux-template"]
 	path = springboot-webflux-template
 	url = https://github.com/hezhangjian/springboot-webflux-template.git
+[submodule "c-template"]
+	path = c-template
+	url = https://github.com/hezhangjian/c-template.git
+[submodule "rust-template"]
+	path = rust-template
+	url = https://github.com/hezhangjian/rust-template.git
+[submodule "csharp-template"]
+	path = csharp-template
+	url = https://github.com/hezhangjian/csharp-template.git
+[submodule "go-template"]
+	path = go-template
+	url = https://github.com/hezhangjian/go-template.git
