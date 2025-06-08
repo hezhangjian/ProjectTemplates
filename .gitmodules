@@ -34,3 +34,6 @@
 [submodule "go-template"]
 	path = go-template
 	url = https://github.com/hezhangjian/go-template.git
+[submodule "springboot-template"]
+	path = springboot-template
+	url = https://github.com/hezhangjian/springboot-template.git

@@ -34,6 +34,7 @@ check_father base-template npm-template
 check_father base-template python-template
 check_father base-template rust-template
 
+check_father java-maven-template springboot-template
 check_father java-maven-template springboot-webflux-template
 
 check_father npm-template angular-template
