@@ -40,4 +40,8 @@ check_father java-maven-template springboot-webflux-template
 check_father npm-template angular-template
 check_father npm-template node-fastify-template
 
+check_father npm-template electron-template
+
+check_father npm-template tauri-template
+
 check_father python-template python-fastapi-template
