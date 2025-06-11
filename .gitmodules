@@ -43,3 +43,6 @@
 [submodule "electron-template"]
 	path = electron-template
 	url = https://github.com/hezhangjian/electron-template.git
+[submodule "electron-vue-template"]
+	path = electron-vue-template
+	url = https://github.com/hezhangjian/electron-vue-template.git
