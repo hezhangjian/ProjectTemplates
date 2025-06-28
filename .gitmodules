@@ -49,3 +49,6 @@
 [submodule "vue-template"]
 	path = vue-template
 	url = https://github.com/hezhangjian/vue-template.git
+[submodule "javafx-template"]
+	path = javafx-template
+	url = https://github.com/hezhangjian/javafx-template.git
